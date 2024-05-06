@@ -14,7 +14,7 @@ api_hash = '2ca18ff57d54538125b02144f66738ba'
 
 # TARGET_CHANNEL_USERNAME = 'https://t.me/mamexfxsignal'
 TARGET_CHANNEL_USERNAME_1 = 'https://t.me/EUROUSDGOLDFOREXSIGNALS'
-TARGET_CHANNEL_USERNAME_2 = 'https://t.me/SF_FOREX0'
+TARGET_CHANNEL_USERNAME_2 = 'https://t.me/mamexfxsignal'
 
 # AI chat bot username (replace with the actual bot username)
 AI_BOT_USERNAME = '@Free_of_ChatGPT_bot'
