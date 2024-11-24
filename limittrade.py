@@ -17,7 +17,7 @@ def initialize_and_login(login, password, server):
 
 def enter_trade(order_type, entry, sl, tp):
     login = 1503672
-    password = '=adt12uDKN'
+    password = ''
     server = 'ACGMarkets-Live'
 
     if not initialize_and_login(login, password, server):
