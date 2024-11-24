@@ -6,18 +6,18 @@ import asyncio
 import os
 
 # Replace with your Telegram API credentials
-api_id = 26893943
-api_hash = '2ca18ff57d54538125b02144f66738ba'
+api_id = urid
+api_hash = 'hash'
 
 # Target channel username (replace with the actual channel username)
 
 
 # TARGET_CHANNEL_USERNAME = 'https://t.me/mamexfxsignal'
-TARGET_CHANNEL_USERNAME_1 = 'https://t.me/EUROUSDGOLDFOREXSIGNALS'
-TARGET_CHANNEL_USERNAME_2 = 'https://t.me/mamexfxsignal'
+TARGET_CHANNEL_USERNAME_1 = 'https://t.me/target'
+TARGET_CHANNEL_USERNAME_2 = 'https://t.me/target'
 
 # AI chat bot username (replace with the actual bot username)
-AI_BOT_USERNAME = '@Free_of_ChatGPT_bot'
+AI_BOT_USERNAME = '@Free_of_ChatGPT_bot' #any ai bot 
 
 # File path for sharing data
 DATA_FILE = 'trade_data.txt'
