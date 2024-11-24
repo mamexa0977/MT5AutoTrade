@@ -15,9 +15,9 @@ def enter_trade(order_type, entry, sl, tp):
     mt5.initialize()
 
     # login = 5024907906
-    # password = 'NiY!Bv4f'
+    # password = ''
     login = 81478736
-    password = 'On-8XmSf'
+    password = ''
     server = 'MetaQuotes-Demo'
 
     authorized = mt5.login(login, password, server)
